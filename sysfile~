@@ -2,3 +2,10 @@ from git sysfile
 to git sysfile today march 20
 
 changed text for cloning
+<<<<<<< HEAD
+
+march 25
+=======
+evening
+second cloning change
+>>>>>>> 9c4ae73818ef25dc43b99e28746f0b58e346d022
